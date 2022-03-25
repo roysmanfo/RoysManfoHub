@@ -32,4 +32,6 @@ The language I will use to create RMHub is python, using the Django framework
 <!-- The site is protected by google -->
 
 ### Trackers
+I use google Analitycs, but I don't have time to spy on YOU (I got thing to do dude, I'm not a weirdo).  
+I use it just to know hom many users entered the website. That's it.  
 <!-- Only for analytical reasons -->
